@@ -1,0 +1,5 @@
+rootProject.name = 'mpp-triangle'
+include 'mpp-triangle-base-common'
+include 'mpp-triangle-derived-common'
+include 'mpp-triangle-derived-jvm'
+
